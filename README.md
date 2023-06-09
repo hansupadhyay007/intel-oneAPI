@@ -8,8 +8,8 @@
   This section must include UML Daigrms and prototype description
   
 ## Tech Stack: 
-   -Intel Extension for PyTorch
-   -OpenCV
+   + Intel Extension for PyTorch
+   + OpenCV
    
    
    
