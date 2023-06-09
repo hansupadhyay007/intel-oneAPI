@@ -5,7 +5,9 @@
 #### Team Leader Email - hansupadhyay755@gmail.com
 
 ## A Brief of the Prototype:
-  This section must include UML Daigrms and prototype description
+  ![image](https://github.com/hansupadhyay007/intel-oneAPI/assets/112337432/6b9127fb-1160-4916-9596-c603b143fc9a)
+![image](https://github.com/hansupadhyay007/intel-oneAPI/assets/112337432/dcda3486-7f76-4e73-98d7-82fd4b37fede)
+
   
 ## Tech Stack: 
    + Intel Extension for PyTorch
