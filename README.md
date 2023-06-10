@@ -3,6 +3,7 @@
 #### Team Name - Team NextIn
 #### Problem Statement -  Object Detection For Autonomous Vehicles
 #### Team Leader Email - hansupadhyay755@gmail.com
+Link of the article in Medium : https://medium.com/@hansupadhyay755/safeguarding-autonomy-enhanced-object-detection-for-autonomous-vehicles-with-distance-mapping-and-a0a1f4682199
 
 ## A Brief of the Prototype:
   ![image](https://github.com/hansupadhyay007/intel-oneAPI/assets/112337432/6b9127fb-1160-4916-9596-c603b143fc9a)
