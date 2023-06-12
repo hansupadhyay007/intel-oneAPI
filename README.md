@@ -6,8 +6,7 @@
 Link of the article in Medium : https://medium.com/@hansupadhyay755/safeguarding-autonomy-enhanced-object-detection-for-autonomous-vehicles-with-distance-mapping-and-a0a1f4682199
 
 ## A Brief of the Prototype:
-  ![image](https://github.com/hansupadhyay007/intel-oneAPI/assets/112337432/6b9127fb-1160-4916-9596-c603b143fc9a)
-![image](https://github.com/hansupadhyay007/intel-oneAPI/assets/112337432/dcda3486-7f76-4e73-98d7-82fd4b37fede)
+
 ![image](https://github.com/hansupadhyay007/intel-oneAPI/assets/112337432/4c949825-6e71-4653-98c8-afd9bcb3f022)
 ![image](https://github.com/hansupadhyay007/intel-oneAPI/assets/112337432/c0992d3b-275d-4d45-81ba-d1863813ea73)
 ![image](https://github.com/hansupadhyay007/intel-oneAPI/assets/112337432/060ec4bd-cf52-49c1-8148-f3a6f634b6ce)
