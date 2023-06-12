@@ -15,6 +15,7 @@ Link of the article in Medium : https://medium.com/@hansupadhyay755/safeguarding
 ![image](https://github.com/hansupadhyay007/intel-oneAPI/assets/112337432/0bc58bb1-0772-43e8-86ec-c32c49549a42)
 ![image](https://github.com/hansupadhyay007/intel-oneAPI/assets/112337432/650604ee-99ee-4c1a-b31c-3e2b0d409d22)
 
+ ![](https://github.com/hansupadhyay007/intel-oneAPI/C:\Users\hansu\Downloads\ambulancevideo_gif.gif)
   
 ## Tech Stack: 
    + Intel Extension for PyTorch
